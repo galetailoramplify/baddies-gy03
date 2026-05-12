@@ -1,4 +1,4 @@
-#  
+#  stealth baddies Scripts offers the most advanced baddies Script, with auto-upgrade and aimbot. Perfect for dominating any match.
 
 
 
